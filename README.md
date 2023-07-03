@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fourth year engineering student at VIT-Chennai. <br>Leaded 8 projects including Diabetic Retinopathy detection using Deep learning, <br>Covid contact tracing Web App, Food Delivery Web App, <br>Arduino based voice control car,Voice recognition app using MIT app Inventor. <br>I have also created a comparative of several regression and classification models for weather forecasting.<br>I have also created several UIs for several apps like Stock market,Timer apps, as a part of my Android club assignments.<br> I am a team and have leaded 10 team projects among which one of them is in the process of PATENT.<br>
+Fourth year engineering student at VIT-Chennai. <br>Leaded 8 projects including Diabetic Retinopathy detection using Deep learning, <br>Covid contact tracing Web App, Food Delivery Web App, <br>Arduino based voice control car,Voice recognition app using MIT app Inventor. <br>I have also created a comparative of several regression and classification models for weather forecasting.<br>I have also created several UIs for several apps like Stock market,Timer apps, as a part of my Android club assignments.<br> I am a team player and have leaded 10 team projects among which one of them is in the process of PATENT.<br>
 
 
 ## 🌐 Socials:
