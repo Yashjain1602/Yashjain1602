@@ -1,5 +1,9 @@
 # 💫 About Me:
-Microsoft Certified: Azure AI fundamentals.Fourth year engineering student at VIT-Chennai.Made several projects from scratch that include Accurate Body Fat prediction using Machine Learning,Diabetic Retinopathy detection using Deep learning,Covid contact tracing Web App, Food Delivery Web App,Arduino based voice control car,Voice recognition app using MIT app Inventor.Created a comparative of several regression and classification models for weather forecasting.Created several UIs for several apps like Stock market,Timer apps, as a part of my Android club assignments.I am a team player and have leaded 10 team projects among which one of them is in the process of PATENT.<br>
+Microsoft Certified: Azure AI fundamentals.I am currently a fourth-year engineering student at VIT-Chennai. Throughout my academic journey, I have actively engaged in various projects that demonstrate my proficiency in machine learning and deep learning techniques. Notable projects include the development of an Accurate Body Fat prediction model, Diabetic Retinopathy detection using Deep learning, and a Covid contact tracing Web App. Additionally, I have successfully created a Food Delivery Web App, an Arduino based voice control car, and a Voice recognition app using MIT app Inventor.
+
+I have also conducted extensive research on regression and classification models for weather forecasting, presenting a comprehensive comparative analysis. As a member of the Android club, I have contributed to the development of multiple user interfaces for apps such as Stock market and Timer apps, as part of assigned tasks.
+
+In addition to my technical skills, I am a highly effective team player and have successfully led 10 team projects, one of which is currently in the patent application process.<br>
 
 
 ## 🌐 Socials:
