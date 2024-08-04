@@ -3,7 +3,7 @@ Microsoft Certified: Azure AI fundamentals.I am currently a fourth-year engineer
 
 I have also conducted extensive research on regression and classification models for weather forecasting, presenting a comprehensive comparative analysis. As a member of the Android club, I have contributed to the development of multiple user interfaces for apps such as Stock market and Timer apps, as part of assigned tasks.
 
-In addition to my technical skills, I am a highly effective team player and have successfully led 10 team projects, one of which is currently in the patent application process.<br>
+In addition to my technical skills, I am a highly effective team player and have successfully led 10 team projects, one of which has been granted a DESIGN PATENT and is currently been in the product patent application process.<br>
 
 
 ## 🌐 Socials:
